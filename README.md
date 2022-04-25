@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikwunze Kelvin... A Frontend developer
 
-- 🌱 Currently learning everything about frontend from udemy/youtube...
+- 🌱 Currently learning everything about frontend from udemy/youtube/documentations...
 You can always check out my profile on frontendmentor @  https://www.frontendmentor.io/profile/Kl3va/solutions for updates on my learnings. 
 
 - 🙏🏾 Looking to have a diverse skillset to be able to make impact by solving real world problems with code. 
