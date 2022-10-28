@@ -1,15 +1,12 @@
-- 👋 Hi, I’m Ikwunze Kelvin... A Frontend developer
+<h1>Hey! :v:</h1>
 
-- 🌱 Currently learning everything about frontend from udemy/youtube/documentations...
+<h2>Welcome to my profile.</h2>
 
-- 🙏🏾 Looking to have a diverse skillset to be able to make impact by solving real world problems with code. 
+I'm a Frontend developer who's biased towards everything JavaScript n it's ecosystem :smile:
 
-- 📫 You can reach me on ikwunzekelvin@gmail.com
+When I'm not coding💻, I'd probably be on qoura/youtube/twitter, listening to music 🎵, battling with my fpl set up, or even watching a tv show 🎥. (Chances are, I'd be diving into an article about tech or philosophy, but that's not all, Trust me! :smirk: )
 
-- ✨ It's still day one🦶.
-<!---
-Kl3va/Kl3va is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-    
+You can always reach out by sending a mail across to *ikwunzekelvin@gmail.com* 
+
+Gracias! 🙌
 
